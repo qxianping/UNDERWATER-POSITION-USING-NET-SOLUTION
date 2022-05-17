@@ -1,7 +1,5 @@
 # UNDERWATER-POSITION-USING-NET-SOLUTION
-# UNDERWATER-POSITION-USING-NET-SOLUTION
 ##  THE MAIN PROGRAM IS NETSOL.F
 ##  THE PURPOSE OF NETSOL.F IS TO COMPUTE TRAS POSITION USING NET SOLUTION ,
-##                   DIRECT-PATH ACOUSTIC RANGING USED                                                                                        
-##                   THE ACOUSTIC RAY BENDING PARAMETER AND 
+##                   DIRECT-PATH ACOUSTIC RANGING USED                                                                                   ##                   THE ACOUSTIC RAY BENDING PARAMETER AND 
 ##                   SOUND SPEED BIAS PARAMETER WERE ESTIMATED   
