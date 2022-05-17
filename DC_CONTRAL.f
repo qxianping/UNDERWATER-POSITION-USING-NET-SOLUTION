@@ -53,7 +53,7 @@ C.....ISYS=5:COMPUTE 3D COORDINATE
           DN((I-1)*3+3,(I-1)*3+3) =  DN((I-1)*3+3,(I-1)*3+3) + DELTN
          ENDDO
           DN(NPAR-1,NPAR-1) =  DN(NPAR-1,NPAR-1) + 1.0D0
-          DN(NPAR,NPAR) =  DN(NPAR,NPAR) + 0.0D0
+          DN(NPAR,NPAR) =  DN(NPAR,NPAR) + 1.0D0
           RETURN
         ENDIF
 
